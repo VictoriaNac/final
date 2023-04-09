@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification/internal/service"
+	"github.com/VictoriaNac/final/internal/service"
 	"github.com/go-chi/chi/v5"
 )
 

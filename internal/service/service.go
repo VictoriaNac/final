@@ -1,8 +1,8 @@
 package service
 
 import (
-	cities "github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification"
-	"github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification/internal/repository"
+	cities "github.com/VictoriaNac/final"
+	"github.com/VictoriaNac/final/internal/repository"
 )
 
 type City interface {

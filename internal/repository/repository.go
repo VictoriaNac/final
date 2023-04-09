@@ -1,6 +1,6 @@
 package repository
 
-import cities "github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification"
+import cities "github.com/VictoriaNac/final"
 
 type CityList interface {
 	Create(city cities.CityRequest) (string, error)

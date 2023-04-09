@@ -6,10 +6,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	cities "github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification"
-	"github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification/internal/handler"
-	"github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification/internal/repository"
-	"github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification/internal/service"
+	cities "github.com/VictoriaNac/final"
+	"github.com/VictoriaNac/final/internal/handler"
+	"github.com/VictoriaNac/final/internal/repository"
+	"github.com/VictoriaNac/final/internal/service"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/viper"
 )

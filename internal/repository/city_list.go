@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	cities "github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification"
+	cities "github.com/VictoriaNac/final"
 )
 
 type CityListDB struct {
