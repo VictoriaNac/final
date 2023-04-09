@@ -1,11 +1,6 @@
-module city
+module github.com/VictoriaNac/final.git //city
 
 go 1.20
-
- module github.com/Kit0b0y/SkillboxHomeWork/NewSkillbox/Interim_certification
-
-go 1.19
-
 require (
 	github.com/go-chi/chi/v5 v5.0.7
 	github.com/rs/zerolog v1.28.0
