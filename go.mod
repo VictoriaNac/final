@@ -1,4 +1,4 @@
-module city  	//github.com/VictoriaNac/final
+module github.com/VictoriaNac/final 	// city
 
 go 1.20
 require (
